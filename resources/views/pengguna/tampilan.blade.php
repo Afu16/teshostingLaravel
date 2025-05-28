@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>Welcome Afu</h3>
-    <a href="/pengguna/beranda">Beranda</a>
+    beranda pengguna
 </body>
 </html>
